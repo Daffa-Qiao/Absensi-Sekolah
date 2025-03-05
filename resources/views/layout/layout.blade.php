@@ -22,6 +22,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="./kelas">Kelas</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./pengurus-kelas">Pengurus Kelas</a>
+                    </li>
                 </ul>
             </div>
         </div>
